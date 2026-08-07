@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jan Bartnicki 
 
-➤ AI-first builder · Computer Science Engineering degree · Management & Marketing student. I build and ship web apps, MVPs and websites with an AI-first approach — using AI dev tools (Claude Code, Codex, Cursor, MCP) to go from idea to working product fast. Currently building commercial Next.js websites for a marketing agency — fast, SEO-optimized, fully responsive, and focused on performance, lead generation and clean UI. I focus on why something is worth building, not just how to code it.
+➤ AI & Automation Builder · Computer Science Engineering degree · Management & Marketing student. I build and ship web apps, MVPs and websites with an AI-first approach — using AI dev tools (Claude Code, Codex, Cursor, MCP) to go from idea to working product fast. Currently building commercial Next.js websites for a marketing agency — fast, SEO-optimized, fully responsive, and focused on performance, lead generation and clean UI. I focus on why something is worth building, not just how to code it.
 ---
 
 ## 💻 Web Developer
